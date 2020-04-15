@@ -9,9 +9,10 @@ Brazilian society suffers permanent financial damage when students of higher edu
 ## References ##
 
 Santos, G. A. S., A. L. Bordignon, S. L. G. Oliveira, D. B. Haddad, D. N. Brandão, and K. T. Belloze. **"A Brief Review about Educational Data Mining applied to Predict Student’s Dropout."** Anais da V Escola Regional de Sistemas de Informação do Rio de Janeiro, Nova Friburgo, 2018. SBC, 2018, pp.86 - 91. DOI: https://doi.org/10.5753/ersirj.2018.4660
-
-Paper: https://sol.sbc.org.br/index.php/ersi-rj/article/view/4660
+* Paper: https://sol.sbc.org.br/index.php/ersi-rj/article/view/4660
 
 Santos, G. A. S., A. L. Bordignon, D. B. Haddad, D. N. Brandão, L. Tarrataca, and K. T. Belloze. **"Data Warehouse Educacional: Uma visão sobre a Evasão no Ensino Superior"**. In: SIMPÓSIO BRASILEIRO DE BANCO DE DADOS (SBBD), 34. , 2019, Fortaleza. Anais do XXXIV Simpósio Brasileiro de Banco de Dados. Porto Alegre: Sociedade Brasileira de Computação, nov. 2019 . p. 235-240. DOI: https://doi.org/10.5753/sbbd.2019.8829.
+* Paper: https://sol.sbc.org.br/index.php/sbbd/article/view/8829
 
-Paper: https://sol.sbc.org.br/index.php/sbbd/article/view/8829
+Haddad, D. B., L. O. Santos, L. F. Almeida, G. A. S. Santos and M. R. Petraglia. **"l2-norm Feature LMS Algorithm"**. Electronics Letters, 3pp. 2020. Elsevier Press. Print ISSN 0013-5194, Online ISSN 1350-911X. DOI: http://10.1049/el.2019.3939
+* Paper: https://digital-library.theiet.org/content/journals/10.1049/el.2019.3939
