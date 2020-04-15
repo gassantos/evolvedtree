@@ -16,3 +16,5 @@ Santos, G. A. S., A. L. Bordignon, D. B. Haddad, D. N. Brandão, L. Tarrataca, a
 
 Haddad, D. B., L. O. Santos, L. F. Almeida, G. A. S. Santos and M. R. Petraglia. **"l2-norm Feature LMS Algorithm"**. Electronics Letters, 3pp. 2020. Elsevier Press. Print ISSN 0013-5194, Online ISSN 1350-911X. DOI: http://10.1049/el.2019.3939
 * Paper: https://digital-library.theiet.org/content/journals/10.1049/el.2019.3939
+
+Santos, G. A. S., K. T. Belloze, D. B. Haddad, L. Tarrataca, A. L. Bordignon and D. N. Brandão. **"EvolveDTree: Analyzing Student Dropout in Universities"**. In: 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020, Niterói.
