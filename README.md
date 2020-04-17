@@ -4,12 +4,6 @@
 
 Brazilian society suffers permanent financial damage when students of higher education courses disassociate with universities without completing the courses in which they were enrolled, mainly in which there was a contribution of public resources. The academic management of an IES comprises several activities. Within the Brazilian federal universities, there are several socio-economic policies and programs to assist and provide support for actions that seek to minimize the dropout of enrolled students, maximize the number of students who graduated on adequate course time, as well as improvements in the process of learning. One of the main challenges of higher education is a dropout, a situation that occurs when students fill the vacancies and dissociate themselves from universities without completing the course in which they have enrolled. According to OECD (2013), the average annual cost per undergraduate student in Brazilian public education was US$ 13,539.90. This value shows that evasion implies significant financial pain for the country. To solve this problem, we propose a machine learning model using genetic algorithm and decision tree based on [Educational Data Mining (EDM)](http://educationaldatamining.org), to identify the students at-risk to abandon the course in which they are enrolled.
 
-## :speaker: For contact me
-
-* :necktie: [My LinkedIn Page](http://www.linkedin.com/in/gassantos) :necktie:
-* :e-mail: [My Personal E-mail](gustavo.santos@les.inf.puc-rio.br) :e-mail:
-* :bookmark_tabs: [My Research Curriculum](http://lattes.cnpq.br/6269223842813109) :bookmark_tabs: 
-
 * <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3604-9194" href="https://orcid.org/0000-0002-3604-9194" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> My Orcid</a></div>
 
 ## :bookmark_tabs: Others contents about this work
@@ -27,4 +21,10 @@ Santos, G. A. S., A. L. Bordignon, D. B. Haddad, D. N. Brandão, L. Tarrataca, a
 Haddad, D. B., L. O. Santos, L. F. Almeida, G. A. S. Santos and M. R. Petraglia. **"l2-norm Feature LMS Algorithm"**. Electronics Letters, 3pp. 2020. Elsevier Press. Print ISSN 0013-5194, Online ISSN 1350-911X. DOI: http://10.1049/el.2019.3939
 * Paper: https://digital-library.theiet.org/content/journals/10.1049/el.2019.3939
 
-Santos, G. A. S., K. T. Belloze, D. B. Haddad, L. Tarrataca, A. L. Bordignon and D. N. Brandão. **"EvolveDTree: Analyzing Student Dropout in Universities"**. In: 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020, Niterói.
+Santos, G. A. S., K. T. Belloze, D. B. Haddad, L. Tarrataca, A. L. Bordignon and D. N. Brandão. **"EvolveDTree: Analyzing Student Dropout in Universities"**. In: 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020, Niterói (**_Accepted_**).
+
+## :speaker: For contact me
+
+* :necktie: [My LinkedIn Page](http://www.linkedin.com/in/gassantos) :necktie:
+* :bookmark_tabs: [My Research Curriculum](http://lattes.cnpq.br/6269223842813109) :bookmark_tabs: 
+* :e-mail: gustavo.gassantos@gmail.com :e-mail:
