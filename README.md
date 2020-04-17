@@ -4,9 +4,19 @@
 
 Brazilian society suffers permanent financial damage when students of higher education courses disassociate with universities without completing the courses in which they were enrolled, mainly in which there was a contribution of public resources. The academic management of an IES comprises several activities. Within the Brazilian federal universities, there are several socio-economic policies and programs to assist and provide support for actions that seek to minimize the dropout of enrolled students, maximize the number of students who graduated on adequate course time, as well as improvements in the process of learning. One of the main challenges of higher education is a dropout, a situation that occurs when students fill the vacancies and dissociate themselves from universities without completing the course in which they have enrolled. According to OECD (2013), the average annual cost per undergraduate student in Brazilian public education was US$ 13,539.90. This value shows that evasion implies significant financial pain for the country. To solve this problem, we propose a machine learning model using genetic algorithm and decision tree based on [Educational Data Mining (EDM)](http://educationaldatamining.org), to identify the students at-risk to abandon the course in which they are enrolled.
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3604-9194" href="https://orcid.org/0000-0002-3604-9194" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3604-9194</a></div>
+## :speaker: For contact me
 
-## References ##
+* :necktie: [My LinkedIn Page](http://www.linkedin.com/in/gassantos) :necktie:
+* :e-mail: [My Personal E-mail](gustavo.santos@les.inf.puc-rio.br) :e-mail:
+* :bookmark_tabs: [My Research Curriculum](http://lattes.cnpq.br/6269223842813109) :bookmark_tabs: 
+
+* <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3604-9194" href="https://orcid.org/0000-0002-3604-9194" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> My Orcid</a></div>
+
+## :bookmark_tabs: Others contents about this work
+
+* [Post in Medium of the Data Hackers Community](https://medium.com/data-hackers/educational-data-mining-data-science-um-caminho-de-solu%C3%A7%C3%A3o-para-o-problema-da-evas%C3%A3o-aaf368527a1)
+
+## :books: References
 
 Santos, G. A. S., A. L. Bordignon, S. L. G. Oliveira, D. B. Haddad, D. N. Brandão, and K. T. Belloze. **"A Brief Review about Educational Data Mining applied to Predict Student’s Dropout."** Anais da V Escola Regional de Sistemas de Informação do Rio de Janeiro, Nova Friburgo, 2018. SBC, 2018, pp.86 - 91. DOI: https://doi.org/10.5753/ersirj.2018.4660
 * Paper: https://sol.sbc.org.br/index.php/ersi-rj/article/view/4660
