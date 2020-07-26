@@ -16,10 +16,17 @@ Santos, G. A. S., A. L. Bordignon, S. L. G. Oliveira, D. B. Haddad, D. N. Brand�
 Santos, G. A. S., A. L. Bordignon, D. B. Haddad, D. N. Brandão, L. Tarrataca, and K. T. Belloze. **"Data Warehouse Educacional: Uma visão sobre a Evasão no Ensino Superior"**. In: SIMPÓSIO BRASILEIRO DE BANCO DE DADOS (SBBD), 34. , 2019, Fortaleza. Anais do XXXIV Simpósio Brasileiro de Banco de Dados. Porto Alegre: Sociedade Brasileira de Computação, nov. 2019 . p. 235-240. DOI: https://doi.org/10.5753/sbbd.2019.8829.
 * Paper: https://sol.sbc.org.br/index.php/sbbd/article/view/8829
 
-Haddad, D. B., L. O. Santos, L. F. Almeida, G. A. S. Santos and M. R. Petraglia. **"l2-norm Feature LMS Algorithm"**. Electronics Letters, 3pp. 2020. Elsevier Press. Print ISSN 0013-5194, Online ISSN 1350-911X. DOI: http://10.1049/el.2019.3939
-* Paper: https://digital-library.theiet.org/content/journals/10.1049/el.2019.3939
+G. A. S. Santos, K. T. Belloze, L. Tarrataca, D. B. Haddad, A. L. Bordignon and D. N. Brandao, **"EvolveDTree: Analyzing Student Dropout in Universities,"** 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), Niterói, Brazil, 2020, pp. 173-178, DOI: https://doi.org/10.1109/IWSSIP48289.2020.9145203. 
+* Paper: https://ieeexplore.ieee.org/abstract/document/9145203
 
-Santos, G. A. S., K. T. Belloze, D. B. Haddad, L. Tarrataca, A. L. Bordignon and D. N. Brandão. **"EvolveDTree: Analyzing Student Dropout in Universities"**. In: 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020, Niterói, Brazil (**_Accepted_**).
+## :speaker: Research Team
+
+* Gustavo Alexandre
+* Diego Brandao
+* Luiz Tarrataca
+* Diego Haddad
+* Alex Laier
+* Kele Belloze
 
 ## :speaker: For contact me
 
