@@ -7,6 +7,9 @@ Brazilian society suffers permanent financial damage when students of higher edu
 ## :bookmark_tabs: Others contents about this work
 
 * [Post in Medium of the Data Hackers Community](https://medium.com/data-hackers/educational-data-mining-data-science-um-caminho-de-solu%C3%A7%C3%A3o-para-o-problema-da-evas%C3%A3o-aaf368527a1)
+* [Related Works from the Systematic Review](https://drive.google.com/file/d/17KT_AB30COV3ndBrT4x9i0zRbhxdt9Ar)
+* [Dataset in Portuguese (Original)](https://github.com/gassantos/evolvedtree/blob/master/dataset/data_uff_dropout_full.csv)
+* [Dataset in English (Translated)](https://github.com/gassantos/evolvedtree/blob/master/dataset/data_uff_dropout_full_eng.csv)
 
 ## :books: References
 
